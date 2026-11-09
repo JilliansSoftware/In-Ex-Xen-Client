@@ -1,5 +1,9 @@
 # In Ex Xen Client
 
+> **This repo is archived.** The In Ex Xen client now lives at
+> [JilliansSoftware/InExXenclient](https://github.com/JilliansSoftware/InExXenclient)
+> (installer in `installer/`, releases there). The v1.0 download below still works.
+
 All-in-one Windows installer for the **In Ex Xen** Ultima Online shard (`play.inexxen.com:2593`):
 ClassicUO + Razor Community Edition + the shard's UO data. Players need nothing else: no EA
 installer, patch, DirectX or vcredist. ClassicUO's host uses .NET Framework 4.7.2, which ships
